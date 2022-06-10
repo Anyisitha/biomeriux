@@ -19,4 +19,4 @@ jobs:
           server: "elearningclinicalbmxsystems.com"
           username: "root@elearningclinicalbmxsystems.com"
           password: "Biomeriux2022*"
-          server-dir: "public_html/development"
+          server-dir: "public_html/development/"
