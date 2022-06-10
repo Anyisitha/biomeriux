@@ -1,0 +1,464 @@
+"1","1","registration","form_class","s:5:""Tulip"";"
+"2","1","registration","form_builder_fields_settings","s:866:""[{""fieldType"":""reg-username"",""fieldTitle"":""Username"",""fieldBarTitle"":""Username"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""face""},{""fieldType"":""reg-email"",""fieldTitle"":""Email Address"",""fieldBarTitle"":""Email Address"",""fieldIcon"":""<span class=\""dashicons dashicons-email\""><\/span>"",""icon"":""email""},{""fieldType"":""reg-password"",""fieldTitle"":""Password"",""fieldBarTitle"":""Password"",""fieldIcon"":""<span class=\""dashicons dashicons-lock\""><\/span>"",""password_visibility_icon"":true},{""fieldType"":""reg-first-name"",""fieldTitle"":""First Name"",""fieldBarTitle"":""First Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""perm_identity""},{""fieldType"":""reg-last-name"",""fieldTitle"":""Last Name"",""fieldBarTitle"":""Last Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""perm_identity""}]"";"
+"3","1","registration","submit_button_text","s:8:""Register"";"
+"4","1","registration","submit_button_processing_label","s:10:""Processing"";"
+"5","1","registration","success_message","s:24:""Registration successful."";"
+"6","1","registration","registration_user_role","s:10:""subscriber"";"
+"7","1","registration","buildscratch_form_width","s:5:""400px"";"
+"8","1","registration","buildscratch_form_font_family","s:12:""Merriweather"";"
+"9","1","registration","buildscratch_remove_form_frame","s:5:""false"";"
+"10","1","registration","buildscratch_hide_required_asterisk","s:5:""false"";"
+"11","1","registration","buildscratch_form_bg_color","s:7:""#ffffff"";"
+"12","1","registration","buildscratch_form_social_buttons","a:3:{i:0;s:8:""facebook"";i:1;s:7:""twitter"";i:2;s:6:""google"";}"
+"13","1","registration","buildscratch_form_headline","s:17:""Create an Account"";"
+"14","1","registration","buildscratch_forgot_password_label","s:19:""Lost your password?"";"
+"15","1","registration","buildscratch_signup_label","s:8:""Register"";"
+"16","1","registration","buildscratch_login_label","s:22:""Have an account? Login"";"
+"17","1","registration","buildscratch_field_layout","s:4:""pill"";"
+"18","1","registration","buildscratch_label_field_size","s:6:""medium"";"
+"19","1","registration","buildscratch_label_field_icon_alignment","s:5:""right"";"
+"20","1","registration","buildscratch_field_icon_color","s:7:""#666666"";"
+"21","1","registration","buildscratch_field_border_color","s:7:""#dbdbdb"";"
+"22","1","registration","buildscratch_field_border_focus_color","s:7:""#999999"";"
+"23","1","registration","buildscratch_field_bg_color","s:7:""#ffffff"";"
+"24","1","registration","buildscratch_field_bg_focus_color","s:7:""#ffffff"";"
+"25","1","registration","buildscratch_label_color","s:7:""#444444"";"
+"26","1","registration","buildscratch_label_font_size","s:2:""14"";"
+"27","1","registration","buildscratch_label_font_weight","s:4:""bold"";"
+"28","1","registration","buildscratch_description_color","s:7:""#666666"";"
+"29","1","registration","buildscratch_description_alignment","s:4:""left"";"
+"30","1","registration","buildscratch_field_value_font_size","s:2:""14"";"
+"31","1","registration","buildscratch_field_value_color","s:7:""#69717a"";"
+"32","1","registration","buildscratch_field_placeholder_color","s:7:""#999999"";"
+"33","1","registration","buildscratch_submit_button_layout","s:4:""pill"";"
+"34","1","registration","buildscratch_submit_button_width","s:10:""full-width"";"
+"35","1","registration","buildscratch_submit_button_font_size","s:2:""16"";"
+"36","1","registration","buildscratch_submit_button_font_weight","s:4:""bold"";"
+"37","1","registration","buildscratch_submit_button_bg_color","s:7:""#000000"";"
+"38","1","registration","buildscratch_submit_button_text_color","s:7:""#ffffff"";"
+"39","1","registration","buildscratch_submit_button_bg_focus_color","s:7:""#dbdbdb"";"
+"40","1","registration","buildscratch_submit_button_text_focus_color","s:7:""#000000"";"
+"41","1","login","form_class","s:5:""Tulip"";"
+"42","1","login","form_builder_fields_settings","s:357:""[{""fieldType"":""login-username"",""fieldTitle"":""User Login"",""fieldBarTitle"":""Username or Email"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""face""},{""fieldType"":""login-password"",""fieldTitle"":""Password"",""fieldBarTitle"":""Password"",""fieldIcon"":""<span class=\""dashicons dashicons-lock\""><\/span>"",""password_visibility_icon"":true}]"";"
+"43","1","login","submit_button_text","s:6:""Log In"";"
+"44","1","login","submit_button_processing_label","s:10:""Processing"";"
+"45","1","login","success_message","s:0:"""";"
+"46","1","login","registration_user_role","s:10:""subscriber"";"
+"47","1","login","buildscratch_form_width","s:5:""400px"";"
+"48","1","login","buildscratch_form_font_family","s:12:""Merriweather"";"
+"49","1","login","buildscratch_remove_form_frame","s:5:""false"";"
+"50","1","login","buildscratch_hide_required_asterisk","s:5:""false"";"
+"51","1","login","buildscratch_form_bg_color","s:7:""#ffffff"";"
+"52","1","login","buildscratch_form_social_buttons","a:3:{i:0;s:8:""facebook"";i:1;s:7:""twitter"";i:2;s:6:""google"";}"
+"53","1","login","buildscratch_form_headline","s:23:""Sign in to Your Account"";"
+"54","1","login","buildscratch_forgot_password_label","s:19:""Lost your password?"";"
+"55","1","login","buildscratch_signup_label","s:8:""Register"";"
+"56","1","login","buildscratch_login_label","s:5:""Login"";"
+"57","1","login","buildscratch_field_layout","s:4:""pill"";"
+"58","1","login","buildscratch_label_field_size","s:6:""medium"";"
+"59","1","login","buildscratch_label_field_icon_alignment","s:5:""right"";"
+"60","1","login","buildscratch_field_icon_color","s:7:""#666666"";"
+"61","1","login","buildscratch_field_border_color","s:7:""#dbdbdb"";"
+"62","1","login","buildscratch_field_border_focus_color","s:7:""#999999"";"
+"63","1","login","buildscratch_field_bg_color","s:7:""#ffffff"";"
+"64","1","login","buildscratch_field_bg_focus_color","s:7:""#ffffff"";"
+"65","1","login","buildscratch_label_color","s:7:""#444444"";"
+"66","1","login","buildscratch_label_font_size","s:2:""14"";"
+"67","1","login","buildscratch_label_font_weight","s:4:""bold"";"
+"68","1","login","buildscratch_description_color","s:7:""#666666"";"
+"69","1","login","buildscratch_description_alignment","s:4:""left"";"
+"70","1","login","buildscratch_field_value_font_size","s:2:""14"";"
+"71","1","login","buildscratch_field_value_color","s:7:""#69717a"";"
+"72","1","login","buildscratch_field_placeholder_color","s:7:""#999999"";"
+"73","1","login","buildscratch_submit_button_layout","s:4:""pill"";"
+"74","1","login","buildscratch_submit_button_width","s:10:""full-width"";"
+"75","1","login","buildscratch_submit_button_font_size","s:2:""16"";"
+"76","1","login","buildscratch_submit_button_font_weight","s:4:""bold"";"
+"77","1","login","buildscratch_submit_button_bg_color","s:7:""#000000"";"
+"78","1","login","buildscratch_submit_button_text_color","s:7:""#ffffff"";"
+"79","1","login","buildscratch_submit_button_bg_focus_color","s:7:""#dbdbdb"";"
+"80","1","login","buildscratch_submit_button_text_focus_color","s:7:""#000000"";"
+"81","1","password-reset","form_class","s:5:""Tulip"";"
+"82","1","password-reset","form_builder_fields_settings","s:175:""[{""fieldType"":""user-login"",""fieldTitle"":""User Login"",""fieldBarTitle"":""Username or Email"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""face""}]"";"
+"83","1","password-reset","submit_button_text","s:14:""Reset Password"";"
+"84","1","password-reset","submit_button_processing_label","s:10:""Processing"";"
+"85","1","password-reset","success_message","s:41:""Check your email for further instruction."";"
+"86","1","password-reset","registration_user_role","s:10:""subscriber"";"
+"87","1","password-reset","buildscratch_form_width","s:5:""400px"";"
+"88","1","password-reset","buildscratch_form_font_family","s:12:""Merriweather"";"
+"89","1","password-reset","buildscratch_remove_form_frame","s:5:""false"";"
+"90","1","password-reset","buildscratch_hide_required_asterisk","s:5:""false"";"
+"91","1","password-reset","buildscratch_form_bg_color","s:7:""#ffffff"";"
+"92","1","password-reset","buildscratch_form_social_buttons","a:3:{i:0;s:8:""facebook"";i:1;s:7:""twitter"";i:2;s:6:""google"";}"
+"93","1","password-reset","buildscratch_form_headline","s:19:""Reset Your Password"";"
+"94","1","password-reset","buildscratch_forgot_password_label","s:19:""Lost your password?"";"
+"95","1","password-reset","buildscratch_signup_label","s:8:""Register"";"
+"96","1","password-reset","buildscratch_login_label","s:15:""Return to Login"";"
+"97","1","password-reset","buildscratch_field_layout","s:4:""pill"";"
+"98","1","password-reset","buildscratch_label_field_size","s:6:""medium"";"
+"99","1","password-reset","buildscratch_label_field_icon_alignment","s:5:""right"";"
+"100","1","password-reset","buildscratch_field_icon_color","s:7:""#666666"";"
+"101","1","password-reset","buildscratch_field_border_color","s:7:""#dbdbdb"";"
+"102","1","password-reset","buildscratch_field_border_focus_color","s:7:""#999999"";"
+"103","1","password-reset","buildscratch_field_bg_color","s:7:""#ffffff"";"
+"104","1","password-reset","buildscratch_field_bg_focus_color","s:7:""#ffffff"";"
+"105","1","password-reset","buildscratch_label_color","s:7:""#444444"";"
+"106","1","password-reset","buildscratch_label_font_size","s:2:""14"";"
+"107","1","password-reset","buildscratch_label_font_weight","s:4:""bold"";"
+"108","1","password-reset","buildscratch_description_color","s:7:""#666666"";"
+"109","1","password-reset","buildscratch_description_alignment","s:4:""left"";"
+"110","1","password-reset","buildscratch_field_value_font_size","s:2:""14"";"
+"111","1","password-reset","buildscratch_field_value_color","s:7:""#69717a"";"
+"112","1","password-reset","buildscratch_field_placeholder_color","s:7:""#999999"";"
+"113","1","password-reset","buildscratch_submit_button_layout","s:4:""pill"";"
+"114","1","password-reset","buildscratch_submit_button_width","s:10:""full-width"";"
+"115","1","password-reset","buildscratch_submit_button_font_size","s:2:""16"";"
+"116","1","password-reset","buildscratch_submit_button_font_weight","s:4:""bold"";"
+"117","1","password-reset","buildscratch_submit_button_bg_color","s:7:""#000000"";"
+"118","1","password-reset","buildscratch_submit_button_text_color","s:7:""#ffffff"";"
+"119","1","password-reset","buildscratch_submit_button_bg_focus_color","s:7:""#dbdbdb"";"
+"120","1","password-reset","buildscratch_submit_button_text_focus_color","s:7:""#000000"";"
+"121","1","edit-profile","form_class","s:5:""Tulip"";"
+"122","1","edit-profile","form_builder_fields_settings","s:911:""[{""fieldType"":""edit-profile-username"",""fieldTitle"":""Username"",""fieldBarTitle"":""Username"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""face""},{""fieldType"":""edit-profile-email"",""fieldTitle"":""Email Address"",""fieldBarTitle"":""Email Address"",""fieldIcon"":""<span class=\""dashicons dashicons-email\""><\/span>"",""icon"":""email""},{""fieldType"":""edit-profile-password"",""fieldTitle"":""Password"",""fieldBarTitle"":""Password"",""fieldIcon"":""<span class=\""dashicons dashicons-lock\""><\/span>"",""password_visibility_icon"":true},{""fieldType"":""edit-profile-first-name"",""fieldTitle"":""First Name"",""fieldBarTitle"":""First Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""perm_identity""},{""fieldType"":""edit-profile-last-name"",""fieldTitle"":""Last Name"",""fieldBarTitle"":""Last Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>"",""icon"":""perm_identity""}]"";"
+"123","1","edit-profile","submit_button_text","s:20:""Actualizar el perfil"";"
+"124","1","edit-profile","submit_button_processing_label","s:10:""Processing"";"
+"125","1","edit-profile","success_message","s:14:""Changes saved."";"
+"126","1","edit-profile","registration_user_role","s:10:""subscriber"";"
+"127","1","edit-profile","buildscratch_form_width","s:5:""400px"";"
+"128","1","edit-profile","buildscratch_form_font_family","s:12:""Merriweather"";"
+"129","1","edit-profile","buildscratch_remove_form_frame","s:5:""false"";"
+"130","1","edit-profile","buildscratch_hide_required_asterisk","s:5:""false"";"
+"131","1","edit-profile","buildscratch_form_bg_color","s:7:""#ffffff"";"
+"132","1","edit-profile","buildscratch_form_social_buttons","a:3:{i:0;s:8:""facebook"";i:1;s:7:""twitter"";i:2;s:6:""google"";}"
+"133","1","edit-profile","buildscratch_form_headline","s:17:""Edit Your Profile"";"
+"134","1","edit-profile","buildscratch_forgot_password_label","s:19:""Lost your password?"";"
+"135","1","edit-profile","buildscratch_signup_label","s:8:""Register"";"
+"136","1","edit-profile","buildscratch_login_label","s:5:""Login"";"
+"137","1","edit-profile","buildscratch_field_layout","s:4:""pill"";"
+"138","1","edit-profile","buildscratch_label_field_size","s:6:""medium"";"
+"139","1","edit-profile","buildscratch_label_field_icon_alignment","s:5:""right"";"
+"140","1","edit-profile","buildscratch_field_icon_color","s:7:""#666666"";"
+"141","1","edit-profile","buildscratch_field_border_color","s:7:""#dbdbdb"";"
+"142","1","edit-profile","buildscratch_field_border_focus_color","s:7:""#999999"";"
+"143","1","edit-profile","buildscratch_field_bg_color","s:7:""#ffffff"";"
+"144","1","edit-profile","buildscratch_field_bg_focus_color","s:7:""#ffffff"";"
+"145","1","edit-profile","buildscratch_label_color","s:7:""#444444"";"
+"146","1","edit-profile","buildscratch_label_font_size","s:2:""14"";"
+"147","1","edit-profile","buildscratch_label_font_weight","s:4:""bold"";"
+"148","1","edit-profile","buildscratch_description_color","s:7:""#666666"";"
+"149","1","edit-profile","buildscratch_description_alignment","s:4:""left"";"
+"150","1","edit-profile","buildscratch_field_value_font_size","s:2:""14"";"
+"151","1","edit-profile","buildscratch_field_value_color","s:7:""#69717a"";"
+"152","1","edit-profile","buildscratch_field_placeholder_color","s:7:""#999999"";"
+"153","1","edit-profile","buildscratch_submit_button_layout","s:4:""pill"";"
+"154","1","edit-profile","buildscratch_submit_button_width","s:10:""full-width"";"
+"155","1","edit-profile","buildscratch_submit_button_font_size","s:2:""16"";"
+"156","1","edit-profile","buildscratch_submit_button_font_weight","s:4:""bold"";"
+"157","1","edit-profile","buildscratch_submit_button_bg_color","s:7:""#000000"";"
+"158","1","edit-profile","buildscratch_submit_button_text_color","s:7:""#ffffff"";"
+"159","1","edit-profile","buildscratch_submit_button_bg_focus_color","s:7:""#dbdbdb"";"
+"160","1","edit-profile","buildscratch_submit_button_text_focus_color","s:7:""#000000"";"
+"161","1","user-profile","form_class","s:15:""DefaultTemplate"";"
+"162","1","user-profile","form_builder_fields_settings","s:933:""[{""fieldType"":""profile-username"",""fieldTitle"":""Username"",""fieldBarTitle"":""Username"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>""},{""fieldType"":""profile-email"",""fieldTitle"":""Email Address"",""fieldBarTitle"":""Email Address"",""fieldIcon"":""<span class=\""dashicons dashicons-email\""><\/span>""},{""fieldType"":""profile-first-name"",""fieldTitle"":""First Name"",""fieldBarTitle"":""First Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>""},{""fieldType"":""profile-last-name"",""fieldTitle"":""Last Name"",""fieldBarTitle"":""Last Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>""},{""fieldType"":""profile-website"",""fieldTitle"":""Website"",""fieldBarTitle"":""Website"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-links\""><\/span>""},{""fieldType"":""profile-bio"",""fieldTitle"":""Biography"",""fieldBarTitle"":""Biography"",""fieldIcon"":""<span class=\""dashicons dashicons-text-page\""><\/span>""}]"";"
+"163","1","user-profile","submit_button_text","s:6:""Log In"";"
+"164","1","user-profile","submit_button_processing_label","s:10:""Processing"";"
+"165","1","user-profile","success_message","s:0:"""";"
+"166","1","user-profile","registration_user_role","s:10:""subscriber"";"
+"167","1","user-profile","ppress_dpf_max_width","s:6:""1000px"";"
+"168","1","user-profile","ppress_dpf_area_max_width","s:5:""600px"";"
+"169","1","user-profile","ppress_dpf_profile_cover_enabled","s:4:""true"";"
+"170","1","user-profile","ppress_dpf_profile_show_bio","s:4:""true"";"
+"171","1","user-profile","ppress_dpf_profile_cover_ratio","s:3:""2.7"";"
+"172","1","user-profile","ppress_dpf_profile_header_display_name","s:16:""first_last_names"";"
+"173","1","user-profile","ppress_dpf_profile_user_meta","a:0:{}"
+"174","1","user-profile","ppress_dpf_profile_menu_tabs","a:3:{i:0;s:4:""main"";i:1;s:5:""posts"";i:2;s:8:""comments"";}"
+"175","1","user-profile","ppress_dpf_profile_header_name_color","s:7:""#555555"";"
+"176","1","user-profile","ppress_dpf_profile_body_text_color","s:7:""#666666"";"
+"177","1","user-profile","ppress_dpf_profile_menu_background_color","s:7:""#444444"";"
+"178","1","user-profile","ppress_dpf_profile_menu_tab_text_color","s:7:""#ffffff"";"
+"179","1","user-profile","ppress_dpf_profile_active_menu_tab_bg_color","s:7:""#007bff"";"
+"180","1","member-directory","form_class","s:15:""DefaultTemplate"";"
+"181","1","member-directory","form_builder_fields_settings","s:318:""[{""fieldType"":""profile-display-name"",""fieldTitle"":""Display Name"",""fieldBarTitle"":""Display Name"",""fieldIcon"":""<span class=\""dashicons dashicons-admin-users\""><\/span>""},{""fieldType"":""profile-bio"",""fieldTitle"":""Biography"",""fieldBarTitle"":""Biography"",""fieldIcon"":""<span class=\""dashicons dashicons-text-page\""><\/span>""}]"";"
+"182","1","member-directory","submit_button_text","s:6:""Log In"";"
+"183","1","member-directory","submit_button_processing_label","s:10:""Processing"";"
+"184","1","member-directory","success_message","s:0:"""";"
+"185","1","member-directory","registration_user_role","s:10:""subscriber"";"
+"186","1","member-directory","ppress_md_user_roles","a:0:{}"
+"187","1","member-directory","ppress_md_specific_users","s:0:"""";"
+"188","1","member-directory","ppress_md_exclude_users","s:0:"""";"
+"189","1","member-directory","ppress_md_sort_default","s:6:""newest"";"
+"190","1","member-directory","ppress_md_enable_custom_sort","s:5:""false"";"
+"191","1","member-directory","ppress_md_sort_method_fields","a:0:{}"
+"192","1","member-directory","ppress_md_enable_search","s:4:""true"";"
+"193","1","member-directory","ppress_md_search_fields","a:5:{i:0;s:16:""pp_email_address"";i:1;s:14:""pp_website_url"";i:2;s:15:""pp_display_name"";i:3;s:10:""first_name"";i:4;s:9:""last_name"";}"
+"194","1","member-directory","ppress_md_enable_filters","s:5:""false"";"
+"195","1","member-directory","ppress_md_filter_fields","a:0:{}"
+"196","1","member-directory","ppress_md_enable_result_after_search","s:5:""false"";"
+"197","1","member-directory","ppress_md_result_number_per_page","s:1:""9"";"
+"198","1","member-directory","ppress_md_results_text","s:21:""{total_users} Members"";"
+"199","1","member-directory","ppress_md_single_result_text","s:20:""{total_users} Member"";"
+"200","1","member-directory","ppress_md_no_result_text","s:60:""We could not find any user that matches your search criteria"";"
+"201","1","member-directory","ppress_md_search_filter_field_text_color","s:7:""#666666"";"
+"202","1","member-directory","ppress_md_search_filter_field_border_color","s:7:""#dddddd"";"
+"203","1","member-directory","ppress_md_pagination_link_color","s:7:""#666666"";"
+"204","1","member-directory","ppress_md_pagination_active_link_color","s:7:""#ffffff"";"
+"205","1","member-directory","ppress_md_pagination_active_background_color","s:7:""#007bff"";"
+"206","1","member-directory","ppress_md_default_profile_picture","s:4:""true"";"
+"207","1","member-directory","ppress_md_default_cover_image","s:4:""true"";"
+"208","1","member-directory","ppress_md_default_social_icons","s:4:""true"";"
+"209","1","member-directory","ppress_md_default_text_color","s:7:""#999999"";"
+"210","1","member-directory","ppress_md_default_display_name_color","s:7:""#444444"";"
+"211","1","member-directory","ppress_md_default_avatar_border_color","s:7:""#ffffff"";"
+"212","1","member-directory","ppress_md_default_background_color","s:7:""#ffffff"";"
+"213","1","member-directory","ppress_md_default_border_color","s:7:""#dddddd"";"
+"214","1","melange","form_class","s:5:""Lucid"";"
+"215","1","melange","form_structure","s:1932:""<div class=""lucidContainer"">
+	<div class=""multitab-section"">
+		<ul class=""multitab-widget multitab-widget-content-tabs-id"">
+			<li class=""multitab-tab""><a href=""#lucidLogin"">Log In</a></li>
+			<li class=""multitab-tab""><a href=""#lucidRegistration"">Register</a></li>
+			<li class=""multitab-tab""><a href=""#lucidReset"">Reset</a></li>
+		</ul>
+		<div class=""multitab-widget-content multitab-widget-content-widget-id"" id=""lucidLogin"">
+      <span id=""sidebartab1"">
+        [pp-login-form]
+		[login-username placeholder=""Username""]
+		[login-password placeholder=""Password""]
+		[login-submit value=""Log In""]
+		[/pp-login-form]
+      </span>
+		</div>
+		<div class=""multitab-widget-content multitab-widget-content-widget-id"" id=""lucidRegistration"">
+      <span id=""sidebartab2"">
+		[pp-registration-form]
+		[reg-username placeholder=""Username""]
+		[reg-email placeholder=""Email Address""]
+		[reg-password placeholder=""Password""]
+		[reg-submit value=""Register""]
+		[/pp-registration-form]
+      </span>
+		</div>
+		<div class=""multitab-widget-content multitab-widget-content-widget-id"" id=""lucidReset"">
+      <span id=""sidebartab3"">
+        [pp-password-reset-form]
+		[user-login value=""Username or Email""]
+		[reset-submit value=""Get New Password""]
+		[/pp-password-reset-form]
+      </span>
+		</div>
+	</div>
+</div>
+
+<script type=""text/javascript"">
+	jQuery(document).ready(function ($) {
+		$("".multitab-widget-content-widget-id"").hide();
+		$(""ul.multitab-widget-content-tabs-id li:first a"").addClass(""multitab-widget-current"").show();
+		$("".multitab-widget-content-widget-id:first"").show();
+		$(""ul.multitab-widget-content-tabs-id li a"").click(function () {
+			$(""ul.multitab-widget-content-tabs-id li a"").removeClass(""multitab-widget-current a"");
+			$(this).addClass(""multitab-widget-current"");
+			$("".multitab-widget-content-widget-id"").hide();
+			var activeTab = $(this).attr(""href"");
+			$(activeTab).fadeIn();
+			return false;
+		});
+	});
+</script>"";"
+"216","1","melange","form_css","s:3865:""@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap);
+
+/* css class for login form generated errors */
+.profilepress-login-status {
+  border-radius: 5px;
+    max-width: 350px;
+    font-size: 15px;
+    line-height: 1.471;
+    padding: 10px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    font-weight: normal;
+    display: block;
+    vertical-align: middle;
+    margin: 5px 0;
+}
+
+.profilepress-login-status a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* css class for registration form generated errors */
+.profilepress-reg-status {
+  border-radius: 5px;
+    max-width: 350px;
+    font-size: 15px;
+    line-height: 1.471;
+    padding: 10px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    font-weight: normal;
+    display: block;
+    vertical-align: middle;
+    margin: 5px 0;
+}
+
+.profilepress-reset-status a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* css class for password reset form generated errors */
+.profilepress-reset-status {
+  border-radius: 5px;
+    max-width: 350px;
+    font-size: 15px;
+    line-height: 1.471;
+    padding: 10px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    font-weight: normal;
+    display: block;
+    vertical-align: middle;
+    margin: 5px 0;
+}
+
+.profilepress-reset-status a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.lucidSuccess {
+  border-radius: 5px;
+  max-width: 350px;
+  font-size: 15px;
+  line-height: 1.471;
+  padding: 10px;
+  background-color: #2ecc71;
+  color: #ffffff;
+  font-weight: normal;
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.lucidContainer {
+  max-width: 350px;
+  margin: 30px 0;
+  padding: 0;
+  box-shadow: 0 10px 5px -5px rgba(0, 0, 0, 0.1);
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Multi Tab Sidebar */
+
+.multitab-section {
+  display: inline-block;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.multitab-section p {
+  display: inline-block;
+  background: #fff;
+  text-transform: lowercase;
+  font-size: 14px;
+  padding: 20px;
+  margin: 0;
+}
+
+.multitab-widget {
+  list-style: none;
+  margin: 0 0 10px;
+  padding: 0
+}
+
+.multitab-widget li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  float: left
+}
+
+.multitab-widget li a {
+  background: #22a1c4;
+  color: #fff;
+  display: block;
+  padding: 15px;
+  font-size: 13px;
+  text-decoration: none
+}
+
+.multitab-tab {
+  width: 33.3%;
+  text-align: center
+}
+
+.multitab-section h2,
+.multitab-section h3,
+.multitab-section h4,
+.multitab-section h5,
+.multitab-section h6 {
+  display: none;
+}
+
+.multitab-widget li a.multitab-widget-current {
+  padding-bottom: 20px;
+  margin-top: -10px;
+  background: #fff;
+  color: #444;
+  text-decoration: none;
+  border-top: 5px solid #22a1c4;
+  font-size: 14px;
+  text-transform: capitalize
+}
+
+.multitab-widget-content {
+  padding: 0 20px;
+  border-bottom: 1px solid #efefef;
+  border-left: 1px solid #efefef;
+  border-right: 1px solid #efefef;
+}
+
+
+div.lucidContainer input[type=""email""],
+div.lucidContainer input[type=""text""],
+div.lucidContainer input[type=""password""], div.lucidContainer select, div.lucidContainer textarea {
+  width: 100%;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.125);
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  background: #fff;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 95%;
+  color: #555;
+}
+
+
+div.lucidContainer input[type=""submit""] {
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  margin: 10px auto;
+  background: #3399cc;
+  border: 0;
+  padding: 4%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100%;
+  color: #fff;
+  cursor: pointer;
+  transition: background .3s;
+  -webkit-transition: background .3s;
+}
+
+div.lucidContainer input[type=""submit""]:hover {
+  background: #2288bb;
+}
+
+"";"
+"217","1","melange","melange_edit_profile_success_msg","s:61:""<div class=""lucidSuccess"">Profile successfully updated.</div>"";"
+"218","1","melange","melange_password_reset_success_msg","s:73:""<div class=""lucidSuccess"">Check your email for further instruction.</div>"";"
+"219","1","melange","melange_registration_success_msg","s:56:""<div class=""lucidSuccess"">Registration Successful.</div>"";"
