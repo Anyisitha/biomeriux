@@ -1,0 +1,19 @@
+name: "Wordpress deploy"
+
+on:
+  pull_request:
+    branches:
+      - development
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "Deploy to hosting"
+        uses: SamKirkland/FTP-Deploy-Action@4.1.0
+        with:
+          server: "elearningclinicalbmxsystems.com"
+          user: "root@elearningclinicalbmxsystems.com"
+          password: "Biomeriux2022*"
+          server_dir: "public_html/development"
