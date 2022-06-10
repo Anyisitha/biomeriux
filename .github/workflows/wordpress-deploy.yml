@@ -16,7 +16,7 @@ jobs:
       - name: "Deploy to hosting"
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
-          server: "elearningclinicalbmxsystems.com"
+          server: "ftp.elearningclinicalbmxsystems.com"
           username: "root@elearningclinicalbmxsystems.com"
           password: "Biomeriux2022*"
           server-dir: "public_html/development/"
