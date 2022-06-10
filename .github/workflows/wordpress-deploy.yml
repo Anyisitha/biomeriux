@@ -20,3 +20,4 @@ jobs:
           username: "root@development.elearningclinicalbmxsystems.com"
           password: "Biomeriux2022*"
           server-dir: "public_html/development/"
+          protocol: ftps
